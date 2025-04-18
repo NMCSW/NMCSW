@@ -11,7 +11,7 @@
 ###
 
 <p align="left">  🌱 I’m currently learning C++ and OOP design patterns<br>    👯 I’m looking to collaborate on desktop projects<br> 💬 Ask me about Python, desktop development, math calculations, or anything tech-related<br>    
-  📫 How to reach me: <a href="https://www.example.com">Discord</a> <br>    😄 Pronouns: he/him<br>    ⚡ Fun fact: I love creating math simulations / solve complex puzzles and challenges in both tech and life!</p>
+  📫 How to reach me: <a href="https://discordapp.com/users/1290200905639006209">Discord</a> <br>    😄 Pronouns: he/him<br>    ⚡ Fun fact: I love creating math simulations / solve complex puzzles and challenges in both tech and life!</p>
 
 ###
 
